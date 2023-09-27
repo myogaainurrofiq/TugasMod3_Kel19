@@ -1,8 +1,8 @@
-# React + Vite
+Tugas Modul 3 Kelompok 19
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- M.Yoga Ainur Rofiq
+- Bainingtyas Kalifa Nurharyanti
+- Daniel Andhika Yudistya
+- Anugerah Nur Rachmat
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Catatan : file yang digunakan -> App.jsx, App.css, Index.css
